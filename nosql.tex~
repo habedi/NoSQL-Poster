@@ -313,7 +313,7 @@ RDBMS. \\Source code can be found at \hyperlink{https://github.com/JakSprats/Alc
 %----------------------------------------------------------------------------------------
 %	REFERENCES
 %----------------------------------------------------------------------------------------
-\nocite{vaish2013getting,website:NoSQL,website:CAP} % Print all references regardless of whether they were cited in the poster or not
+\nocite{mohan2013history} % Print all references regardless of whether they were cited in the poster or not
 \bibliographystyle{plain} % Plain referencing style
 \bibliography{references} % Use the example bibliography file sample.bib
 \end{multicols}
