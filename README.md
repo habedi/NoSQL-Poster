@@ -1,5 +1,5 @@
 IT WAS AN EXPRIMENT ON HOW TO CREATE AN A0 POSTER WITH LATEX;0)
-===============================================================
+---------------------------------------------------------------
 
 see below for credit:
 
